@@ -23,7 +23,7 @@ public class YouTube extends YouTubeBaseActivity implements YouTubePlayer.OnInit
 
         y=(YouTubePlayerView)findViewById(R.id.youtubeView);
 
-        y.initialize( "AIzaSyAvxWetd2LN6trfPNN_e6BGghehf09GSA8" ,this);
+        y.initialize( "USE YOUR AIZA VALUE" ,this);
 
 
 
