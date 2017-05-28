@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\GOLU\AndroidStudioProjects\Songs\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="C:\Users\GOLU\AndroidStudioProjects\Songs\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.1.0_082a1a14baee830d797ffd3db4593dc33a297764\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\GOLU\AndroidStudioProjects\Songs\app\build\intermediates\exploded-aar\com.android.support\design\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="30103d98fa5ed824b54af839c85e2111f9bde8ec">
+        <dex dex="C:\Users\GOLU\AndroidStudioProjects\Songs\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-25.1.0_839f3d2c599f89c7931544c43c9a0a5fc1f8c425\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\GOLU\AndroidStudioProjects\Songs\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="C:\Users\GOLU\AndroidStudioProjects\Songs\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.1.0_8d9a6233d108111835c31f35753287740cd2ba20\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\GOLU\AndroidStudioProjects\Songs\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="C:\Users\GOLU\AndroidStudioProjects\Songs\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-25.1.0_f8bbf8ed0fb52d7b568574d2bff90dcf5087035e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\GOLU\AndroidStudioProjects\Songs\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="C:\Users\GOLU\AndroidStudioProjects\Songs\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.1.0_5f157f7e6ac14435406b7adbccda0c2913bc7f63\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\GOLU\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.0\support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="C:\Users\GOLU\AndroidStudioProjects\Songs\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.1.0_fc4e71ce502649f5987717218a754b7d38ea1a33\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\GOLU\AndroidStudioProjects\Songs\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e1c60370009e9798fdafeb2931759a663ac627d5">
+        <dex dex="C:\Users\GOLU\AndroidStudioProjects\Songs\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_8510ce02f297cece611bc1559763567efc8724f4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\GOLU\AndroidStudioProjects\Songs\app\libs\YouTubeAndroidPlayerApi.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3c4f96ff493456651cc7bdb0b47e10eb25545a16">
+        <dex dex="C:\Users\GOLU\AndroidStudioProjects\Songs\app\build\intermediates\transforms\dex\debug\folders\1000\2\YouTubeAndroidPlayerApi_0e6cd3872c7aa2a220e7d30ccb2a91d9fd3a48c0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\GOLU\AndroidStudioProjects\Songs\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4eddcbb7ce8cebeb20f164d7d9d7da6b2980cd14">
+        <dex dex="C:\Users\GOLU\AndroidStudioProjects\Songs\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_c25bf36d7085bd1dd8369faa14a5a0946fc991a9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\GOLU\AndroidStudioProjects\Songs\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="C:\Users\GOLU\AndroidStudioProjects\Songs\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.1.0_5dd8833bb26807eac4764b294800e6404d0f8223\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\GOLU\AndroidStudioProjects\Songs\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="C:\Users\GOLU\AndroidStudioProjects\Songs\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.1.0_060e42e62ee0c654e9e37bf195149301cb40948b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\GOLU\AndroidStudioProjects\Songs\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="C:\Users\GOLU\AndroidStudioProjects\Songs\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.1.0_5eaace75baada4e9406986cd8e3651ab29ae450f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\GOLU\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.4.0\f36d2d4e3a36b3259aaf9d004d29b4cdc6c1bfb2\picasso-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f36d2d4e3a36b3259aaf9d004d29b4cdc6c1bfb2">
+        <dex dex="C:\Users\GOLU\AndroidStudioProjects\Songs\app\build\intermediates\transforms\dex\debug\folders\1000\10\picasso-2.4.0_948b884c6dc66f3a6b3c6668167ea82892500eff\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\GOLU\AndroidStudioProjects\Songs\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="C:\Users\GOLU\AndroidStudioProjects\Songs\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.1.0_e5912071c08bb48be551d3044fd3c3a049405b4c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\GOLU\AndroidStudioProjects\Songs\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7f2420506110902f033406b25697cf97ee8c38b2">
+        <dex dex="C:\Users\GOLU\AndroidStudioProjects\Songs\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-25.1.0_612bb0d1d55dd33a1a6e7bee398f425eaece02e9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\GOLU\AndroidStudioProjects\Songs\app\build\intermediates\exploded-aar\com.android.support\transition\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d38084015027549951cbaea5d5f6fb795cc81151">
+        <dex dex="C:\Users\GOLU\AndroidStudioProjects\Songs\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-transition-25.1.0_6e9413cb68a07d784fb342f525bf9b85b5eefda6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\GOLU\AndroidStudioProjects\Songs\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\GOLU\AndroidStudioProjects\Songs\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.1.0_15814552f1d7c644bad7c3df4b2c810c2810f4c2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\GOLU\AndroidStudioProjects\Songs\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="C:\Users\GOLU\AndroidStudioProjects\Songs\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.1.0_81020fb383e54709830e830f8b4cdf26769ea300\classes.dex" />
+    </item>
+
+</items>
