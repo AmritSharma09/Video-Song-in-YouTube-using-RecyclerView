@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    android:background="#3fa6ae"
+    android:paddingTop="8dp"
+    android:paddingBottom="8dp"
+    tools:context="com.example.golu.songs.SecondActivity">
+
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:layout_margin="5dp"
+        app:cardElevation="5dp"
+        app:cardCornerRadius="5dp"
+        app:cardBackgroundColor="#03396c"
+        android:elevation="3dp"
+        android:background="@color/colorAccent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="#004d80"
+            android:layout_weight="1"
+            android:layout_marginBottom="8dp"
+            android:paddingLeft="20dp"
+            android:id="@+id/english"
+            android:onClick="onSelectCategory"
+            android:gravity="left|center"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:layout_width="50dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+
+                android:id="@+id/english_song" />
+
+            <LinearLayout
+             android:layout_width="0dp"
+             android:layout_height="match_parent"
+             android:orientation="vertical"
+             android:layout_weight="3">
+
+             <TextView
+                 android:layout_width="match_parent"
+                 android:layout_height="0dp"
+                 android:gravity="bottom"
+                 android:layout_weight="1"
+                 android:textSize="22sp"
+                 android:text="Super Hit Songs(English)"
+                 android:textStyle="normal|bold"
+                 android:textAlignment="center" />
+
+             <TextView
+                 android:layout_width="match_parent"
+                 android:layout_height="0dp"
+                 android:layout_weight="1"
+                 android:paddingTop="5dp"
+                 android:textSize="18sp"
+                 android:textAlignment="center"
+                 android:text="Duration : 1 Hrs"
+                 android:textStyle="normal|bold|italic" />
+
+         </LinearLayout>
+
+        </LinearLayout>
+
+    </android.support.v7.widget.CardView>
+
+
+
+
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:layout_margin="5dp"
+        app:cardElevation="5dp"
+        app:cardCornerRadius="5dp"
+        app:cardBackgroundColor="#03396c"
+        android:elevation="3dp"
+        android:background="@color/colorAccent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="#004d80"
+            android:layout_weight="1"
+            android:layout_marginBottom="8dp"
+            android:paddingLeft="20dp"
+            android:id="@+id/hindi"
+            android:onClick="onSelectCategory"
+            android:gravity="left|center"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:layout_width="50dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+
+                android:id="@+id/hindi_song" />
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:orientation="vertical"
+                android:layout_weight="3">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:gravity="bottom"
+                    android:layout_weight="1"
+                    android:textSize="22sp"
+                    android:text="Super Hit Songs(Hindi)"
+                    android:textStyle="normal|bold"
+                    android:textAlignment="center"
+                    android:id="@+id/textView" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:layout_weight="1"
+                    android:paddingTop="5dp"
+                    android:textSize="18sp"
+                    android:textAlignment="center"
+                    android:text="Duration : 1 Hrs"
+                    android:textStyle="normal|bold|italic" />
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+    </android.support.v7.widget.CardView>
+
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:layout_margin="5dp"
+        app:cardElevation="5dp"
+        app:cardCornerRadius="5dp"
+        app:cardBackgroundColor="#03396c"
+        android:elevation="3dp"
+        android:background="@color/colorAccent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="#004d80"
+            android:layout_weight="1"
+            android:layout_marginBottom="8dp"
+            android:paddingLeft="20dp"
+            android:id="@+id/motivation"
+            android:onClick="onSelectCategory"
+            android:gravity="left|center"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:layout_width="50dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+
+                android:id="@+id/motivation_song" />
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:orientation="vertical"
+                android:layout_weight="3">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:gravity="bottom"
+                    android:layout_weight="1"
+                    android:textSize="22sp"
+                    android:text="Motivation Song"
+                    android:textStyle="normal|bold"
+                    android:textAlignment="center"
+                     />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:layout_weight="1"
+                    android:paddingTop="5dp"
+                    android:textSize="18sp"
+                    android:textAlignment="center"
+                    android:text="Duration : 1 Hrs"
+                    android:textStyle="normal|bold|italic" />
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+    </android.support.v7.widget.CardView>
+
+
+
+
+</LinearLayout>
